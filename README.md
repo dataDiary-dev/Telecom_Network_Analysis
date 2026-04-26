@@ -108,7 +108,7 @@ This project analyzes telecom network data to identify performance bottlenecks, 
 ## Dashboard
 
 📁 See `/dashboard` folder for Power BI output
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 ---
 
 ## Additional Documentation
